@@ -1,14 +1,38 @@
-This project analyzes global suicide data to identify trends and patterns over time.
-This analysis includes total suicides per year, gender-based statistics, suicides bys age group, countries and other relevant factors.
-Visualizations are created to make insights clear and actionable.
-The dataset used is publicaly available and contains information about:
-    Country,
-    Year,
-    Gender,
-    Age Group,
-    Number of Suicides.
-Technologies Used:
-    Python 3.13.6,
-    Pandas,
-    Streamlit,
-    Plotly(for visualizations).
+# SUICIDE RATE ANALYSIS DASHBOARD
+
+A Streamlit web application for interactive analysis of global suicide rates using Plotly visualizations.
+The app provides insights into suicide trends by year, gender, country, age group, and GDP, along with filter options and data download functionality.
+
+# Features
+
+1. Upload your own CSV dataset for analysis
+
+2. Toggle between Light/Dark themes
+
+3. Visualizations included:
+
+Total suicides per year (line chart)
+
+Suicides by gender (bar chart)
+
+Top 10 countries by suicides (bar chart)
+
+Suicides by age group (bar chart)
+
+GDP per capita vs suicides (scatter plot with trendline)
+
+Global suicide map (choropleth)
+
+Filtered country trends (line chart with year & country filter)
+
+4. Download filtered data as CSV
+
+# Tech Stack
+
+Python
+
+Streamlit
+
+Pandas
+
+Plotly
