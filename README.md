@@ -11,19 +11,19 @@ The app provides insights into suicide trends by year, gender, country, age grou
 
 3. Visualizations included:
 
-Total suicides per year (line chart)
+      Total suicides per year (line chart)
 
-Suicides by gender (bar chart)
+      Suicides by gender (bar chart)
 
-Top 10 countries by suicides (bar chart)
+      Top 10 countries by suicides (bar chart)
 
-Suicides by age group (bar chart)
+      Suicides by age group (bar chart)
 
-GDP per capita vs suicides (scatter plot with trendline)
+      GDP per capita vs suicides (scatter plot with trendline)
 
-Global suicide map (choropleth)
+      Global suicide map (choropleth)
 
-Filtered country trends (line chart with year & country filter)
+      Filtered country trends (line chart with year & country filter)
 
 4. Download filtered data as CSV
 
